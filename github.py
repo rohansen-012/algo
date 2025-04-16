@@ -9,8 +9,8 @@ import hmac
 
 # initialise
 base_url = 'https://api.india.delta.exchange'
-api_key = 'uK0g2ZB2Yc08ddnVCUxotSKohacEIs'
-api_secret = 'euC6tJXXB2fPC7nZ1Lqv1xGOH8BqPRTT4iXKhwrev8DFhvcRMluS2tRB0SeG'
+api_key = "API_KEY"
+api_secret = "API_SECRET"
 symbol = "BTCUSD"
 timeframe = "15m"
 side = ""
